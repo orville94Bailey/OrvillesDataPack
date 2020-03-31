@@ -1,0 +1,1 @@
+This is a personal datapack made for myself. I've used some other people's work and updated it to 1.15 namely [smart-saplings](https://www.planetminecraft.com/data-pack/smart-saplings/). I don't claim ownership to all of the code within I just made it work.
